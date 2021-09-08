@@ -12,8 +12,8 @@ swell_size = wave_height[1].split(' ')
 swell_size = swell_size[2]
 swell_size = float(swell_size)
 
-account_sid = 'AC694d00904b775b76a46011c864c84999'
-auth_token = '1772986cd190c88e82e155bceda618c0'
+account_sid = 'hidden'
+auth_token = 'hidden'
 
 client = Client(account_sid, auth_token)
 
